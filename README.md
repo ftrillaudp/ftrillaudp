@@ -12,7 +12,7 @@
 
 # FTrillaudP's README
 
-Current goal: make available some alternative open-source or free Finite Element (FE) software to a large audience of end-users and advanced-users alike through examples.
+Here are some examples of the use of some alternative open-source or free Finite Element (FE) software through case studies. It is intended for a large audience of end-users and advanced-users.
 
 The software are:
 
