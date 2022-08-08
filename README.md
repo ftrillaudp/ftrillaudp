@@ -16,7 +16,7 @@ Our current goal is to make available to a large audience some alternative open-
 
 <hr style="border:1.5px solid blue">
 
-# Videos
+# 🎥 Videos
 
 <div align="left">
  <a href="https://www.youtube.com/user/IINGENUNAM">
