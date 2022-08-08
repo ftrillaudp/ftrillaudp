@@ -78,7 +78,7 @@ The software are:
  <a href="https://scholar.google.com/citations?user=KK0VX34AAAAJ&hl=en" rel="googlescholar">
     <img src="./Pictures/googleScholar.png" width="50">
  </a>
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
  <a href="https://publons.com/wos-op/researcher/1699475/frederic-trillaud/" rel="publons">
     <img src="./Pictures/publons.png" width="50">
  </a>
@@ -97,7 +97,7 @@ The software are:
 [Publons](https://publons.com/wos-op/researcher/1699475/frederic-trillaud/)
 &nbsp;
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55912971200)
-&nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [ORCID](https://orcid.org/0000-0002-6964-5603)
 
 
