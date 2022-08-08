@@ -112,6 +112,8 @@ For some information on who we are and what we are currently doing, you may look
 [ORCID](https://orcid.org/0000-0002-6964-5603)
 
 
+JUpyter: [Notebook](https://github.com/ftrillaudp/Jupyter/blob/main/testNotebook.ipynb)
+
 <hr style="border:1.5px solid red">
 
 # :fire: Statistics:
