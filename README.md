@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ftrillaudp/ftrillaudp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Ftrillaudp's README 🧑‍🔬
+
+Our current goal is to make available to a large audience some alternative opensource or free Finite Element (FE) software to end-users and advanced-users alike.
+
+
+
+
