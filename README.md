@@ -62,14 +62,19 @@ The software are:
 <hr style="border:1.5px solid blue">
 
 # 🎥 Videos
+<div id="header" align="center">
+  <img src="./Pictures/youtube.png" width="200"/>
+</div>
 
-Some videos related to our projects can be found on the Youtube channel of the Institute of Engineering of the UNAM. Enter `trillaud` in the search widget. 
+Some videos related to our projects can be found on the Youtube channel of the Institute of Engineering of the UNAM. Enter `trillaud` in the search widget.
 
 <div align="left">
  <a href="https://www.youtube.com/user/IINGENUNAM">
-    <img src="./Pictures/youtube.jpeg" width="200">
+    <img src="./Pictures/iingen.jpeg" width="200">
  </a>
 </div>
+
+Some videos can be found at [the Mexican school of superconductivity](https://www.fisica.unam.mx/escuelas/superconductividad/). It is mostly in Spanish; some talks are in English.
 
 
 <hr style="border:1.5px solid green">
