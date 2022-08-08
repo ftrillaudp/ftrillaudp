@@ -35,10 +35,10 @@ The software are:
     <img src="./Pictures/elmer.jpeg" width="40">
  </a>
  <a href="https://www.code-aster.org/spip.php?rubrique2" rel="aster">
-    <img src="./Pictures/aster.png" width="55">
+    <img src="./Pictures/aster.png" width="54">
  </a>
  <a href="https://www.code-saturne.org/cms/web/" rel="saturne">
-    <img src="./Pictures/saturne.jpeg" width="75">
+    <img src="./Pictures/saturne.jpeg" width="77">
  </a>
  <a href="https://openfoam.org/" rel="openfoam">
     <img src="./Pictures/openfoam.png" width="150">
