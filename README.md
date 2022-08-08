@@ -53,7 +53,7 @@ The software are:
 [Elmer](http://www.elmerfem.org/blog/)
 &nbsp;
 [Code_Aster](https://www.code-aster.org/spip.php?rubrique2)
-&nbsp;
+&nbsp; &nbsp;
 [Code_Saturne](https://www.code-saturne.org/cms/web/)
 &nbsp;
 [Openfoam](https://openfoam.org/)
@@ -78,7 +78,7 @@ The software are:
  <a href="https://scholar.google.com/citations?user=KK0VX34AAAAJ&hl=en" rel="googlescholar">
     <img src="./Pictures/googleScholar.png" width="50">
  </a>
- &nbsp;
+ &nbsp; &nbsp;
  <a href="https://publons.com/wos-op/researcher/1699475/frederic-trillaud/" rel="publons">
     <img src="./Pictures/publons.png" width="50">
  </a>
@@ -97,7 +97,7 @@ The software are:
 [Publons](https://publons.com/wos-op/researcher/1699475/frederic-trillaud/)
 &nbsp;
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55912971200)
-&nbsp;
+&nbsp; &nbsp;
 [ORCID](https://orcid.org/0000-0002-6964-5603)
 
 
