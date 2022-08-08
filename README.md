@@ -10,7 +10,7 @@
   <img src="./Pictures/geek.png" width="200"/>
 </div>
 
-# Ftrillaudp's README 🧑‍🔬
+# Ftrillaudp's README
 
 Our current goal is to make available to a large audience some alternative open-source or free Finite Element (FE) software to end-users and advanced-users alike.
 
@@ -24,6 +24,11 @@ Our current goal is to make available to a large audience some alternative open-
  </a>
 </div>
 
+<hr style="border:1.5px solid green">
+
+# 🧑‍🔬 Social network
+
+![Google scholar](https://scholar.google.com/citations?user=KK0VX34AAAAJ&hl=en)
 
 <hr style="border:1.5px solid red">
 
