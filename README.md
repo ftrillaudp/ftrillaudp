@@ -9,7 +9,7 @@
 <div id="header" align="center">
   <img src="./Pictures/geek.png" width="200"/>
 </div>
-<div align="left">
+<div align="center">
  <a href="https://www.youtube.com/user/IINGENUNAM">
     <img src="./Pictures/youtube.jpeg" width="200">
  </a>
