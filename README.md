@@ -44,7 +44,7 @@ The software are:
  <a href="https://www.code-saturne.org/cms/web/" rel="saturne">
     <img src="./Pictures/saturne.jpeg" width="77">
  </a>
- &nbsp; &nbsp; &nbsp;
+ &nbsp; &nbsp;
  <a href="https://openfoam.org/" rel="openfoam">
     <img src="./Pictures/openfoam.png" width="150">
  </a>
@@ -78,7 +78,7 @@ The software are:
  <a href="https://scholar.google.com/citations?user=KK0VX34AAAAJ&hl=en" rel="googlescholar">
     <img src="./Pictures/googleScholar.png" width="50">
  </a>
- &nbsp; &nbsp;
+ &nbsp; &nbsp; &nbsp; &nbsp;
  <a href="https://publons.com/wos-op/researcher/1699475/frederic-trillaud/" rel="publons">
     <img src="./Pictures/publons.png" width="50">
  </a>
