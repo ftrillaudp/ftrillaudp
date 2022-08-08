@@ -16,7 +16,7 @@ Here are some examples of the use of some alternative open-source or free Finite
 
 The software are:
 
-- Geometry/mesh builder:
+- Geometry/mesh builders:
 <div align="left">
  <a href="https://onelab.info/" rel="onelab">
     <img src="./Pictures/gmsh.png" width="40">
@@ -63,6 +63,8 @@ The software are:
 
 # 🎥 Videos
 
+Some videos related to our projects can be found on the Youtube channel of the Institute of Engineering of the UNAM. Enter `Trillaud` in the search widget. 
+
 <div align="left">
  <a href="https://www.youtube.com/user/IINGENUNAM">
     <img src="./Pictures/youtube.jpeg" width="200">
@@ -73,6 +75,8 @@ The software are:
 <hr style="border:1.5px solid green">
 
 # 🧑‍🔬 Online profiles
+
+For some information on who we are and what we are currently doing, you may look at our online academic profiles:
 
 <div align="left">
  <a href="https://scholar.google.com/citations?user=KK0VX34AAAAJ&hl=en" rel="googlescholar">
