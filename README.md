@@ -11,7 +11,7 @@
 </div>
 <div align="left">
       <a href="https://www.youtube.com/user/IINGENUNAM">
-         <img src="./Pictures/youtube.jpeg" style="width:100%;">
+         <img src="./Pictures/youtube.jpeg" style="width:10%;">
       </a>
 </div>
 
