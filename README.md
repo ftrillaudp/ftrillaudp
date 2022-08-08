@@ -25,6 +25,8 @@ The software are:
     <img src="./Pictures/salome.png" width="50">
  </a>
 </div>
+[Onelab](https://onelab.info/)
+[Salome](https://www.salome-platform.org/)
 - FE solvers:
 <div align="left">
  <a href="http://www.elmerfem.org/blog/" rel="elmer">
@@ -40,6 +42,10 @@ The software are:
     <img src="./Pictures/openfoam.png" width="130">
  </a>
 </div>
+[Elmer](http://www.elmerfem.org/blog/)
+[Code_Aster](https://www.code-aster.org/spip.php?rubrique2)
+[Code_Saturne](https://www.code-saturne.org/cms/web/)
+[Openfoam](https://openfoam.org/)
 
 
 <hr style="border:1.5px solid blue">
