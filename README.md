@@ -34,18 +34,25 @@ Here are some links to online profiles:
 
 
 <div align="left">
- <a href="https://scholar.google.com/citations?user=KK0VX34AAAAJ&hl=en" rel="Google scholar">
+ <a href="https://scholar.google.com/citations?user=KK0VX34AAAAJ&hl=en" rel="googlescholar">
     <img src="./Pictures/googleScholar.png" width="50">
  </a>
- <a href="https://publons.com/wos-op/researcher/1699475/frederic-trillaud/" rel="Publons">
+ <a href="https://publons.com/wos-op/researcher/1699475/frederic-trillaud/" rel="publons">
     <img src="./Pictures/publons.png" width="50">
+ </a>
+ <a href="https://www.scopus.com/authid/detail.uri?authorId=55912971200" rel="scopus">
+    <img src="./Pictures/scopus.png" width="50">
+ </a>
+ <a href="https://orcid.org/0000-0002-6964-5603" rel="Orcid">
+    <img src="./Pictures/orcid.png" width="50">
  </a>
 </div>
 
+
 [Google scholar](https://scholar.google.com/citations?user=KK0VX34AAAAJ&hl=en)
 [Publons](https://publons.com/wos-op/researcher/1699475/frederic-trillaud/)
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=55912971200)
 [ORCID](https://orcid.org/0000-0002-6964-5603)
-[scopus](https://www.scopus.com/authid/detail.uri?authorId=55912971200)
 
 
 <hr style="border:1.5px solid red">
