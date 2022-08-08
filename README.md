@@ -9,26 +9,22 @@
 <div id="header" align="center">
   <img src="./Pictures/geek.png" width="200"/>
 </div>
-<div align="center">
- <a href="https://www.youtube.com/user/IINGENUNAM">
-    <img src="./Pictures/youtube.jpeg" width="200">
- </a>
-</div>
 
 
 # Ftrillaudp's README 🧑‍🔬
 
 Our current goal is to make available to a large audience some alternative open-source or free Finite Element (FE) software to end-users and advanced-users alike.
 
+<hr style="border:1px solid blue">
 # Videos
 
 <div align="left">
-      <a href="https://www.youtube.com/embed/MUQfKFzIOeU">
-         <img src="./Pictures/Youtube.jpeg" style="width:100%;">
-      </a>
+ <a href="https://www.youtube.com/user/IINGENUNAM">
+    <img src="./Pictures/youtube.jpeg" width="200">
+ </a>
 </div>
 
 
-
+<hr style="border:2px solid red">
 # :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
