@@ -12,7 +12,34 @@
 
 # FTrillaudP's README
 
-Our current goal is to make available to a large audience some alternative open-source or free Finite Element (FE) software to end-users and advanced-users alike.
+Current goal: make available some alternative open-source or free Finite Element (FE) software to a large audience of end-users and advanced-users alike through examples.
+
+The software are:
+
+- Geometry/mesh builder:
+<div align="left">
+ <a href="https://onelab.info/" rel="onelab">
+    <img src="./Pictures/gmsh.png" width="50">
+ </a>
+ <a href="https://www.salome-platform.org/" rel="salome">
+    <img src="./Pictures/salome.png" width="50">
+ </a>
+</div>
+- FE solvers:
+<div align="left">
+ <a href="http://www.elmerfem.org/blog/" rel="elmer">
+    <img src="./Pictures/elmer.jpeg" width="50">
+ </a>
+ <a href="https://www.code-aster.org/spip.php?rubrique2" rel="aster">
+    <img src="./Pictures/aster.png" width="50">
+ </a>
+ <a href="https://www.code-saturne.org/cms/web/" rel="saturne">
+    <img src="./Pictures/saturne.jpeg" width="50">
+ </a>
+ <a href="https://openfoam.org/" rel="openfoam">
+    <img src="./Pictures/openfoam.png" width="130">
+ </a>
+</div>
 
 
 <hr style="border:1.5px solid blue">
