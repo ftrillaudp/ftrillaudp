@@ -19,29 +19,32 @@ The software are:
 - Geometry/mesh builder:
 <div align="left">
  <a href="https://onelab.info/" rel="onelab">
-    <img src="./Pictures/gmsh.png" width="50">
+    <img src="./Pictures/gmsh.png" width="30">
  </a>
  <a href="https://www.salome-platform.org/" rel="salome">
-    <img src="./Pictures/salome.png" width="50">
+    <img src="./Pictures/salome.png" width="100">
  </a>
 </div>
+
 [Onelab](https://onelab.info/)
 [Salome](https://www.salome-platform.org/)
+
 - FE solvers:
 <div align="left">
  <a href="http://www.elmerfem.org/blog/" rel="elmer">
-    <img src="./Pictures/elmer.jpeg" width="50">
+    <img src="./Pictures/elmer.jpeg" width="30">
  </a>
  <a href="https://www.code-aster.org/spip.php?rubrique2" rel="aster">
     <img src="./Pictures/aster.png" width="50">
  </a>
  <a href="https://www.code-saturne.org/cms/web/" rel="saturne">
-    <img src="./Pictures/saturne.jpeg" width="50">
+    <img src="./Pictures/saturne.jpeg" width="130">
  </a>
  <a href="https://openfoam.org/" rel="openfoam">
     <img src="./Pictures/openfoam.png" width="130">
  </a>
 </div>
+
 [Elmer](http://www.elmerfem.org/blog/)
 [Code_Aster](https://www.code-aster.org/spip.php?rubrique2)
 [Code_Saturne](https://www.code-saturne.org/cms/web/)
@@ -77,7 +80,6 @@ The software are:
     <img src="./Pictures/orcid.png" width="50">
  </a>
 </div>
-
 
 [Google scholar](https://scholar.google.com/citations?user=KK0VX34AAAAJ&hl=en)
 [Publons](https://publons.com/wos-op/researcher/1699475/frederic-trillaud/)
