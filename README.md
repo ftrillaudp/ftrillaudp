@@ -67,11 +67,17 @@ Some videos related to our projects can be found on the Youtube channel of the I
 
 <div align="left">
  <a href="https://www.youtube.com/user/IINGENUNAM">
-    <img src="./Pictures/iingen.png" width="200">
+    <img src="./Pictures/iingen.png" width="100">
  </a>
 </div>
 
 Some videos can be found at [the Mexican school of superconductivity](https://www.fisica.unam.mx/escuelas/superconductividad/). It is mostly in Spanish; some talks are in English.
+
+<div align="left">
+ <a href="https://www.fisica.unam.mx/escuelas/superconductividad/">
+    <img src="./Pictures/escuelassuperconductividad.png" width="100">
+ </a>
+</div>
 
 <hr style="border:1.5px solid green">
 
