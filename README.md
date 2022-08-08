@@ -10,9 +10,9 @@
   <img src="./Pictures/geek.png" width="200"/>
 </div>
 <div align="left">
-      <a href="https://www.youtube.com/user/IINGENUNAM">
-         <img src="./Pictures/youtube.jpeg" style="width:10%;">
-      </a>
+ <a href="https://www.youtube.com/user/IINGENUNAM">
+    <img src="./Pictures/youtube.jpeg" width="200">
+ </a>
 </div>
 
 
