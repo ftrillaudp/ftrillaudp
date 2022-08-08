@@ -59,7 +59,7 @@ The software are:
 [Openfoam](https://openfoam.org/)
 
 
-<hr style="border:1.5px solid blue">
+<hr style="border:2px solid blue">
 
 #  🎥 Videos <img src="./Pictures/youtube.jpeg" width="100"/>
 
@@ -79,7 +79,7 @@ Some videos can be found at [the Mexican school of superconductivity](https://ww
  </a>
 </div>
 
-<hr style="border:1.5px solid green">
+<hr style="border:2px solid green">
 
 # 🧑‍🔬 Online profiles
 
@@ -111,12 +111,13 @@ For some information on who we are and what we are currently doing, you may look
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [ORCID](https://orcid.org/0000-0002-6964-5603)
 
+<hr style="border:2px solid orange">
 
 # :abc: Notebooks:
 
 Basic commands: [Commands](https://github.com/ftrillaudp/Jupyter/blob/main/commands.ipynb)
 
-<hr style="border:1.5px solid red">
+<hr style="border:2px solid red">
 
 # :fire: Statistics:
 
