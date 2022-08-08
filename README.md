@@ -41,7 +41,7 @@ Here are some links to online profiles:
     <img src="./Pictures/publons.png" width="50">
  </a>
  <a href="https://www.scopus.com/authid/detail.uri?authorId=55912971200" rel="scopus">
-    <img src="./Pictures/scopus.png" width="150">
+    <img src="./Pictures/scopus.png" width="140">
  </a>
  <a href="https://orcid.org/0000-0002-6964-5603" rel="Orcid">
     <img src="./Pictures/orcid.png" width="50">
