@@ -19,10 +19,10 @@ The software are:
 - Geometry/mesh builder:
 <div align="left">
  <a href="https://onelab.info/" rel="onelab">
-    <img src="./Pictures/gmsh.png" width="30">
+    <img src="./Pictures/gmsh.png" width="40">
  </a>
  <a href="https://www.salome-platform.org/" rel="salome">
-    <img src="./Pictures/salome.png" width="100">
+    <img src="./Pictures/salome.png" width="80">
  </a>
 </div>
 
@@ -32,16 +32,16 @@ The software are:
 - FE solvers:
 <div align="left">
  <a href="http://www.elmerfem.org/blog/" rel="elmer">
-    <img src="./Pictures/elmer.jpeg" width="30">
+    <img src="./Pictures/elmer.jpeg" width="40">
  </a>
  <a href="https://www.code-aster.org/spip.php?rubrique2" rel="aster">
     <img src="./Pictures/aster.png" width="50">
  </a>
  <a href="https://www.code-saturne.org/cms/web/" rel="saturne">
-    <img src="./Pictures/saturne.jpeg" width="130">
+    <img src="./Pictures/saturne.jpeg" width="100">
  </a>
  <a href="https://openfoam.org/" rel="openfoam">
-    <img src="./Pictures/openfoam.png" width="130">
+    <img src="./Pictures/openfoam.png" width="150">
  </a>
 </div>
 
