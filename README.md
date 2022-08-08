@@ -32,7 +32,15 @@ Our current goal is to make available to a large audience some alternative open-
 
 Here are some links to online profiles:
 
-<a href="https://scholar.google.com/citations?user=KK0VX34AAAAJ&hl=en" rel="Google scholar">![Google scholar](./Pictures/googleScholar.png)</a>
+
+<div align="left">
+ <a href="https://scholar.google.com/citations?user=KK0VX34AAAAJ&hl=en" rel="Google scholar">
+    <img src="./Pictures/googleScholar.png" width="50">
+ </a>
+ <a href="https://publons.com/wos-op/researcher/1699475/frederic-trillaud/" rel="Publons">
+    <img src="./Pictures/publons.png" width="50">
+ </a>
+</div>
 
 [Google scholar](https://scholar.google.com/citations?user=KK0VX34AAAAJ&hl=en)
 [Publons](https://publons.com/wos-op/researcher/1699475/frederic-trillaud/)
