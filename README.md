@@ -28,10 +28,7 @@ Our current goal is to make available to a large audience some alternative open-
 
 <hr style="border:1.5px solid green">
 
-# 🧑‍🔬 Social network
-
-Here are some links to online profiles:
-
+# 🧑‍🔬 Online profiles
 
 <div align="left">
  <a href="https://scholar.google.com/citations?user=KK0VX34AAAAJ&hl=en" rel="googlescholar">
