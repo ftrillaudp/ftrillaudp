@@ -40,7 +40,7 @@ The software are:
  <a href="https://www.code-aster.org/spip.php?rubrique2" rel="aster">
     <img src="./Pictures/aster.png" width="54">
  </a>
- &nbsp;
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
  <a href="https://www.code-saturne.org/cms/web/" rel="saturne">
     <img src="./Pictures/saturne.jpeg" width="77">
  </a>
@@ -53,7 +53,7 @@ The software are:
 [Elmer](http://www.elmerfem.org/blog/)
 &nbsp;
 [Code_Aster](https://www.code-aster.org/spip.php?rubrique2)
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp;
 [Code_Saturne](https://www.code-saturne.org/cms/web/)
 &nbsp;
 [Openfoam](https://openfoam.org/)
