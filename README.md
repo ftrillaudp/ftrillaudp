@@ -63,7 +63,7 @@ The software are:
 
 # 🎥 Videos
 
-Some videos related to our projects can be found on the Youtube channel of the Institute of Engineering of the UNAM. Enter `Trillaud` in the search widget. 
+Some videos related to our projects can be found on the Youtube channel of the Institute of Engineering of the UNAM. Enter `trillaud` in the search widget. 
 
 <div align="left">
  <a href="https://www.youtube.com/user/IINGENUNAM">
