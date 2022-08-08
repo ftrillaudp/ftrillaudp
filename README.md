@@ -24,7 +24,7 @@ Our current goal is to make available to a large audience some alternative open-
 </div>
 
 
-<hr style="border:1,5px solid red">
+<hr style="border:1.5px solid red">
 # :fire: Statistics:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
