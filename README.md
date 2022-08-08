@@ -75,7 +75,7 @@ Some videos can be found at [the Mexican school of superconductivity](https://ww
 
 <div align="left">
  <a href="https://www.fisica.unam.mx/escuelas/superconductividad/">
-    <img src="./Pictures/escuelaSuperconductividad.jpeg" width="200">
+    <img src="./Pictures/escuelaSuperconductividad.jpeg" width="150">
  </a>
 </div>
 
