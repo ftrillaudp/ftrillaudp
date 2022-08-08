@@ -61,7 +61,7 @@ The software are:
 
 <hr style="border:1.5px solid blue">
 
-#  🎥 Videos <img src="./Pictures/youtube.jpeg" width="200"/>
+#  🎥 Videos <img src="./Pictures/youtube.jpeg" width="100"/>
 
 Some videos related to our projects can be found on the Youtube channel of the Institute of Engineering of the UNAM. Enter `trillaud` in the search widget.
 
