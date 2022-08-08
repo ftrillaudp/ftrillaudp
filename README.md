@@ -21,12 +21,14 @@ The software are:
  <a href="https://onelab.info/" rel="onelab">
     <img src="./Pictures/gmsh.png" width="40">
  </a>
+ &nbsp;
  <a href="https://www.salome-platform.org/" rel="salome">
     <img src="./Pictures/salome.png" width="80">
  </a>
 </div>
 
 [Onelab](https://onelab.info/)
+&nbsp;
 [Salome](https://www.salome-platform.org/)
 
 - FE solvers:
@@ -34,20 +36,26 @@ The software are:
  <a href="http://www.elmerfem.org/blog/" rel="elmer">
     <img src="./Pictures/elmer.jpeg" width="40">
  </a>
+ &nbsp;
  <a href="https://www.code-aster.org/spip.php?rubrique2" rel="aster">
     <img src="./Pictures/aster.png" width="54">
  </a>
+ &nbsp;
  <a href="https://www.code-saturne.org/cms/web/" rel="saturne">
     <img src="./Pictures/saturne.jpeg" width="77">
  </a>
+ &nbsp;
  <a href="https://openfoam.org/" rel="openfoam">
     <img src="./Pictures/openfoam.png" width="150">
  </a>
 </div>
 
 [Elmer](http://www.elmerfem.org/blog/)
+&nbsp;
 [Code_Aster](https://www.code-aster.org/spip.php?rubrique2)
+&nbsp;
 [Code_Saturne](https://www.code-saturne.org/cms/web/)
+&nbsp;
 [Openfoam](https://openfoam.org/)
 
 
