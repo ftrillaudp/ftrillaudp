@@ -67,7 +67,7 @@ Some videos related to our projects can be found on the Youtube channel of the I
 
 <div align="left">
  <a href="https://www.youtube.com/user/IINGENUNAM">
-    <img src="./Pictures/iingen.png" width="100">
+    <img src="./Pictures/iingen.png" width="150">
  </a>
 </div>
 
@@ -75,7 +75,7 @@ Some videos can be found at [the Mexican school of superconductivity](https://ww
 
 <div align="left">
  <a href="https://www.fisica.unam.mx/escuelas/superconductividad/">
-    <img src="./Pictures/escuelaSuperconductividad.jpeg" width="100">
+    <img src="./Pictures/escuelaSuperconductividad.jpeg" width="200">
  </a>
 </div>
 
