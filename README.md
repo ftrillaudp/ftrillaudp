@@ -10,7 +10,7 @@
   <img src="./Pictures/geek.png" width="200"/>
 </div>
 
-# Ftrillaudp's README
+# FTrillaudP's README
 
 Our current goal is to make available to a large audience some alternative open-source or free Finite Element (FE) software to end-users and advanced-users alike.
 
