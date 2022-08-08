@@ -61,7 +61,7 @@ The software are:
 
 <hr style="border:1.5px solid blue">
 
-# 🎥 Videos
+# | 🎥 Videos | [youtube](./Pictures/youtube.jpeg) |
 <div id="header" align="left">
   <img src="./Pictures/youtube.jpeg" width="200"/>
 </div>
