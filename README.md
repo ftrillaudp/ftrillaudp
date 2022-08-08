@@ -28,7 +28,7 @@ Our current goal is to make available to a large audience some alternative open-
 
 # 🧑‍🔬 Social network
 
-![Google scholar](https://scholar.google.com/citations?user=KK0VX34AAAAJ&hl=en)
+[Google scholar](https://scholar.google.com/citations?user=KK0VX34AAAAJ&hl=en)
 
 <hr style="border:1.5px solid red">
 
