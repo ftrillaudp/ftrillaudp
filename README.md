@@ -6,10 +6,10 @@
 - ⚡ Fun fact: ...
 -->
 
+<div id="header" align="center">
+  <img src="./geek.png" width="100"/>
+</div>
+
 # Ftrillaudp's README 🧑‍🔬
 
-Our current goal is to make available to a large audience some alternative opensource or free Finite Element (FE) software to end-users and advanced-users alike.
-
-
-
-
+Our current goal is to make available to a large audience some alternative open-source or free Finite Element (FE) software to end-users and advanced-users alike.
