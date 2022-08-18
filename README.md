@@ -7,7 +7,7 @@
 -->
 
 <div id="header" align="center">
-  <img src="./Pictures/geek.png" width="200"/>
+  <img src="./Pictures/geek.png" width="250"/>
 </div>
 
 # FTrillaudP's README
