@@ -111,11 +111,6 @@ For some information on who we are and what we are currently doing, you may look
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [ORCID](https://orcid.org/0000-0002-6964-5603)
 
-<hr style="border:2px solid orange">
-
-# :abc: Notebooks:
-
-Basic commands: [Commands](https://github.com/ftrillaudp/Jupyter/blob/main/commands.ipynb)
 
 <hr style="border:2px solid red">
 
